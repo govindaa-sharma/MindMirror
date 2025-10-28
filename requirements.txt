@@ -1,0 +1,10 @@
+pandas
+transformers
+torch
+sentence-transformers
+chromadb
+accelerate
+matplotlib
+seaborn
+groq
+streamlit
